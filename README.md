@@ -70,15 +70,15 @@ SQL Extraction → Excel EDA & Cleaning → Power BI Modeling → DAX KPIs → D
 <table>
   <tr>
     <td><img src="Images/01_introduction.png" alt="Overview"/><br/><sub><b>Overview</b></sub></td>
-    <td><img src="Images/02_customers.png" alt="Customers Analysis"/><br/><sub><b>Customers Analysis</b></sub></td>
+    <td><img src="Images/03_customers.png" alt="Customers Analysis"/><br/><sub><b>Customers Analysis</b></sub></td>
   </tr>
   <tr>
-    <td><img src="Images/03_employees.png" alt="Employee Analysis"/><br/><sub><b>Employee Analysis</b></sub></td>
-    <td><img src="Images/04_products.png" alt="Product Analysis"/><br/><sub><b>Product Analysis</b></sub></td>
+    <td><img src="Images/04_employees.png" alt="Employee Analysis"/><br/><sub><b>Employee Analysis</b></sub></td>
+    <td><img src="Images/05_products.png" alt="Product Analysis"/><br/><sub><b>Product Analysis</b></sub></td>
   </tr>
   <tr>
-    <td><img src="Images/05_shippers.png" alt="Shipper Analysis"/><br/><sub><b>Shipper Analysis</b></sub></td>
-    <td><img src="Images/06_suppliers.png" alt="Supplier Analysis"/><br/><sub><b>Supplier Analysis</b></sub></td>
+    <td><img src="Images/06_shippers.png" alt="Shipper Analysis"/><br/><sub><b>Shipper Analysis</b></sub></td>
+    <td><img src="Images/07_suppliers.png" alt="Supplier Analysis"/><br/><sub><b>Supplier Analysis</b></sub></td>
   </tr>
 </table>
 
