@@ -80,7 +80,6 @@ SQL Extraction → Excel EDA & Cleaning → Power BI Modeling → DAX KPIs → D
 ![Shippers](Images/06_shipper_analysis.png)
 
 ---
-
 ## 📁 Repository Structure
 
 ```
